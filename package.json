@@ -1,0 +1,17 @@
+{
+  "name": "github-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/endpoint": "^6.0.12",
+    "js-base64": "^3.7.2",
+    "umi-request": "^1.4.0"
+  }
+}
